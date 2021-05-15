@@ -1,8 +1,8 @@
-mkdir -p /etc/docker
+sudo mkdir -p /etc/docker
 
-tee /etc/docker/daemon.json <<-'EOF'
+sudo tee /etc/docker/daemon.json <<-'EOF'
 {"registry-mirrors":["https://kj5p8h0d.mirror.aliyuncs.com"]}
 EOF
 
-systemctl daemon-reload
-systemctl restart docker
+sudo systemctl daemon-reload
+sudo systemctl restart docker
