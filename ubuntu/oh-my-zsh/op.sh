@@ -23,3 +23,10 @@ plugins=(
 install nerd fonts:
 www.nerdfonts.com
 www.programmingfonts.org
+
+
+https://www.nerdfonts.com/font-downloads
+
+'Hack Nerd Font'
+
+vscode terminal ['Hack Nerd Font']
