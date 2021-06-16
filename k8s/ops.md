@@ -1,0 +1,1 @@
+kubectl -n env-feature-gorm-v2 exec -it ceres-purchase-64487f45d6-6x5v6 -- bash
