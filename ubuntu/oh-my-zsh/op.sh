@@ -30,3 +30,6 @@ https://www.nerdfonts.com/font-downloads
 'Hack Nerd Font'
 
 vscode terminal ['Hack Nerd Font']
+
+
+source ~/.zshrc
